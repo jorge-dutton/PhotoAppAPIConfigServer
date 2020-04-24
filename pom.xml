@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.jdutton.photoapp.api</groupId>
-	<artifactId>PhotoAppAPIConfigServer</artifactId>
+	<artifactId>PhotoAppApiConfigServer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>PhotoAppAPIConfigServer</name>
+	<name>PhotoAppApiConfigServer</name>
 	<description>Spring Cloud config server for Photo App</description>
 
 	<properties>
